@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey! My name is Jamie, and I like programming and researching! I am currently exploring full-stack web development, AI/ML development and systems architecture & design.
+Hey! My name is Jamie, and I like programming and researching! I am currently exploring a whole lot of topics related to technology and science!
